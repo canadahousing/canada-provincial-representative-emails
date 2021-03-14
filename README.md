@@ -6,7 +6,7 @@ The emails and some metadata on Canada's provincial MLAs, MNAs, MPPs from provin
 ## Download files
 
 #### Alberta
-[Alberta CSV](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Alberta_CSV-Members-of-Legislative-Assembly_Emails.csv) | [Alberta JSON](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Alberta_JSON-Members-of-Legislative-Assembly_Emails.json)
+[CSV](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Alberta_CSV-Members-of-Legislative-Assembly_Emails.csv) | [JSON](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Alberta_JSON-Members-of-Legislative-Assembly_Emails.json)
 
 #### British Columbia
 [CSV](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/British-Columbia_CSV-Members-of-Legislative-Assembly_Emails.csv) | [JSON](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/British-Columbia_JSON-Members-of-Legislative-Assembly_Emails.json)
