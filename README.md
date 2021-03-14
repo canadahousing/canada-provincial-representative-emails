@@ -45,7 +45,7 @@ We cannot find these published anywhere.
 [CSV](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Saskatchewan_CSV-Members-of-Legislative-Assembly_Emails.csv) | [JSON](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Saskatchewan_JSON-Members-of-Legislative-Assembly_Emails.json)
 
 #### Yukon
-[CSV](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Yukon-Territories_CSV-Members-of-Legislative-Assembly_Emails.csv) | [JSON](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Yukon_JSON-Territories_CSV-Members-of-Legislative-Assembly_Emails.json)"
+[CSV](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Yukon-Territories_CSV-Members-of-Legislative-Assembly_Emails.csv) | [JSON](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Yukon_JSON-Territories_CSV-Members-of-Legislative-Assembly_Emails.json)
 
 Download the files here, or use the code below in Terminal to download the repo:
 
