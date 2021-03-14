@@ -5,6 +5,9 @@ The emails and some metadata on Canada's provincial MLAs, MNAs, MPPs from provin
 
 ## Download files
 
+#### Members of Federal Parliament
+[CSV](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Members-of-Parliament_Emails.csv) | [JSON](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Members-of-Parliament_Emails.json)
+
 #### Alberta
 [CSV](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Alberta_CSV-Members-of-Legislative-Assembly_Emails.csv) | [JSON](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Alberta_JSON-Members-of-Legislative-Assembly_Emails.json)
 
@@ -14,8 +17,8 @@ The emails and some metadata on Canada's provincial MLAs, MNAs, MPPs from provin
 #### Manitoba
 [CSV](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Manitoba-Members-of-Legislative-Assembly_Emails.csv) | [JSON](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Manitoba-Members-of-Legislative-Assembly_Emails.json)
 
-#### Members of Federal Parliament
-[CSV](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Members-of-Parliament_Emails.csv) | [JSON](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Members-of-Parliament_Emails.json)
+#### Newfoundland and Labrador
+We cannot find these published anywhere.
 
 #### New Brunswick
 [CSV](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/New-Brunswick_CSV-Members-of-Legislative-Assembly_Emails.csv) | [JSON](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/New-Brunswick_JSON-Members-of-Legislative-Assembly_Emails.json)
