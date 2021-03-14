@@ -39,7 +39,7 @@ The emails and some metadata on Canada's provincial MLAs, MNAs, MPPs from provin
 [CSV](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Quebec_CSV-Members-of-National-Assembly_Emails.csv) | [JSON](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Quebec_JSON-Members-of-National-Assembly_Emails.json)
 
 #### Saskatchewan
-[CSV](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Saskatchewan_CSV-Members-of-Legislative-Assembly_Emails.csv) | [JSON](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Saskatchewan_CSV-Members-of-Legislative-Assembly_Emails.json)
+[CSV](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Saskatchewan_CSV-Members-of-Legislative-Assembly_Emails.csv) | [JSON](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Saskatchewan_JSON-Members-of-Legislative-Assembly_Emails.json)
 
 #### Yukon
 [CSV](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Yukon-Territories_CSV-Members-of-Legislative-Assembly_Emails.csv) | [JSON](https://github.com/longslowclap/canada-provincial-representative-emails/blob/master/Yukon_JSON-Territories_CSV-Members-of-Legislative-Assembly_Emails.json)"
