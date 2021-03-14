@@ -1,0 +1,296 @@
+[
+  {
+    "constituency": "Restigouche West",
+    "email": "gilles.lepage@gnb.ca",
+    "name": "Gilles LePage",
+    "party": "L"
+  },
+  {
+    "constituency": "Campbellton-Dalhousie",
+    "email": "guy.arseneault@gnb.ca",
+    "name": "Guy Arseneault",
+    "party": "L"
+  },
+  {
+    "constituency": "Restigouche-Chaleur",
+    "email": "daniel.guitard@gnb.ca",
+    "name": "Hon. Daniel Guitard",
+    "party": "L"
+  },
+  {
+    "constituency": "Bathurst West-Beresford",
+    "email": "brian.kenny@gnb.ca",
+    "name": "Brian Kenny",
+    "party": "L"
+  },
+  {
+    "constituency": "Bathurst East-Nepisiguit-Saint-Isidore",
+    "email": "denis.landry2@gnb.ca",
+    "name": "Denis Landry",
+    "party": "L"
+  },
+  {
+    "constituency": "Caraquet",
+    "email": "isabelle.theriault@gnb.ca",
+    "name": "Isabelle Thériault",
+    "party": "L"
+  },
+  {
+    "constituency": "Shippagan-Lamèque-Miscou",
+    "email": "robert.gauvin@gnb.ca",
+    "name": "Robert Gauvin",
+    "party": "IND"
+  },
+  {
+    "constituency": "Tracadie-Sheila",
+    "email": "keith.chiasson@gnb.ca",
+    "name": "Keith Chiasson",
+    "party": "L"
+  },
+  {
+    "constituency": "Miramichi Bay-Neguac",
+    "email": "lisa.harris@gnb.ca",
+    "name": "Lisa Harris",
+    "party": "L"
+  },
+  {
+    "constituency": "Miramichi",
+    "email": "michelle.conroy@gnb.ca",
+    "name": "Michelle Conroy",
+    "party": "PA"
+  },
+  {
+    "constituency": "Southwest Miramichi-Bay du Vin",
+    "email": "jake.stewart@gnb.ca",
+    "name": "Hon. Jake Stewart",
+    "party": "PC"
+  },
+  {
+    "constituency": "Kent North",
+    "email": "kevin.a.arseneau@gnb.ca",
+    "name": "Kevin Arseneau",
+    "party": "G"
+  },
+  {
+    "constituency": "Kent South",
+    "email": "benoit.bourque@gnb.ca",
+    "name": "Benoît Bourque",
+    "party": "L"
+  },
+  {
+    "constituency": "Shediac Bay-Dieppe",
+    "email": "",
+    "name": "Vacant",
+    "party": ""
+  },
+  {
+    "constituency": "Shediac-Beaubassin-Cap-Pelé",
+    "email": "jacques.j.leblanc@gnb.ca",
+    "name": "Jacques LeBlanc",
+    "party": "L"
+  },
+  {
+    "constituency": "Memramcook-Tantramar",
+    "email": "megan.mitton@gnb.ca",
+    "name": "Megan Mitton",
+    "party": "G"
+  },
+  {
+    "constituency": "Dieppe",
+    "email": "roger.l.melanson@gnb.ca",
+    "name": "Roger Melanson",
+    "party": "L"
+  },
+  {
+    "constituency": "Moncton East",
+    "email": "monique.a.leblanc@gnb.ca",
+    "name": "Monique LeBlanc",
+    "party": "L"
+  },
+  {
+    "constituency": "Moncton Centre",
+    "email": "robert.mckee@gnb.ca",
+    "name": "Robert McKee",
+    "party": "L"
+  },
+  {
+    "constituency": "Moncton South",
+    "email": "cathy.rogers@gnb.ca",
+    "name": "Cathy Rogers",
+    "party": "L"
+  },
+  {
+    "constituency": "Moncton Northwest",
+    "email": "ernie.steeves@gnb.ca",
+    "name": "Hon. Ernie Steeves",
+    "party": "PC"
+  },
+  {
+    "constituency": "Moncton Southwest",
+    "email": "sherry.wilson@gnb.ca",
+    "name": "Hon. Sherry Wilson",
+    "party": "PC"
+  },
+  {
+    "constituency": "Riverview",
+    "email": "bruce.fitch@gnb.ca",
+    "name": "Hon. R. Bruce Fitch",
+    "party": "PC"
+  },
+  {
+    "constituency": "Albert",
+    "email": "mike.holland@gnb.ca",
+    "name": "Hon. Mike Holland",
+    "party": "PC"
+  },
+  {
+    "constituency": "Gagetown-Petitcodiac",
+    "email": "ross.wetmore@gnb.ca",
+    "name": "Hon. Ross Wetmore",
+    "party": "PC"
+  },
+  {
+    "constituency": "Sussex-Fundy-St. Martins",
+    "email": "bruce.northrup@gnb.ca",
+    "name": "Bruce Northrup",
+    "party": "PC"
+  },
+  {
+    "constituency": "Hampton",
+    "email": "gary.crossman@gnb.ca",
+    "name": "Gary Crossman",
+    "party": "PC"
+  },
+  {
+    "constituency": "Quispamsis",
+    "email": "blaine.higgs@gnb.ca",
+    "name": "Hon. Blaine Higgs",
+    "party": "PC"
+  },
+  {
+    "constituency": "Rothesay",
+    "email": "hugh.flemming@gnb.ca",
+    "name": "Hon. Hugh J. A. (Ted) Flemming, Q.C.",
+    "party": "PC"
+  },
+  {
+    "constituency": "Saint John East",
+    "email": "glen.savoie@gnb.ca",
+    "name": "Hon. Glen Savoie",
+    "party": "PC"
+  },
+  {
+    "constituency": "Portland-Simonds",
+    "email": "trevor.holder@gnb.ca",
+    "name": "Hon. Trevor A. Holder",
+    "party": "PC"
+  },
+  {
+    "constituency": "Saint John Harbour",
+    "email": "gerry.lowe@gnb.ca",
+    "name": "Gerry Lowe",
+    "party": "L"
+  },
+  {
+    "constituency": "Saint John Lancaster",
+    "email": "dorothy.shephard@gnb.ca",
+    "name": "Hon. Dorothy Shephard",
+    "party": "PC"
+  },
+  {
+    "constituency": "Kings Centre",
+    "email": "bill.oliver@gnb.ca",
+    "name": "Hon. Bill Oliver",
+    "party": "PC"
+  },
+  {
+    "constituency": "Fundy-The Isles-Saint John West",
+    "email": "andrea.andersonmason@gnb.ca",
+    "name": "Hon. Andrea Anderson-Mason, Q.C.",
+    "party": "PC"
+  },
+  {
+    "constituency": "Saint Croix",
+    "email": "",
+    "name": "Vacant",
+    "party": ""
+  },
+  {
+    "constituency": "Oromocto-Lincoln-Fredericton",
+    "email": "mary.wilson@gnb.ca",
+    "name": "Hon. Mary E. Wilson",
+    "party": "PC"
+  },
+  {
+    "constituency": "Fredericton-Grand Lake",
+    "email": "kris.austin@gnb.ca",
+    "name": "Kris Austin",
+    "party": "PA"
+  },
+  {
+    "constituency": "New Maryland-Sunbury",
+    "email": "jeff.carr@gnb.ca",
+    "name": "Hon. Jeff Carr",
+    "party": "PC"
+  },
+  {
+    "constituency": "Fredericton South",
+    "email": "david.coon@gnb.ca",
+    "name": "David Coon",
+    "party": "G"
+  },
+  {
+    "constituency": "Fredericton North",
+    "email": "stephen.horsman@gnb.ca",
+    "name": "Stephen Horsman",
+    "party": "L"
+  },
+  {
+    "constituency": "Fredericton-York",
+    "email": "rick.desaulniers@gnb.ca",
+    "name": "Rick DeSaulniers",
+    "party": "PA"
+  },
+  {
+    "constituency": "Fredericton West-Hanwell",
+    "email": "dominic.cardy@gnb.ca",
+    "name": "Hon. Dominic Cardy",
+    "party": "PC"
+  },
+  {
+    "constituency": "Carleton-York",
+    "email": "carl.urquhart@gnb.ca",
+    "name": "Hon. Carl Urquhart",
+    "party": "PC"
+  },
+  {
+    "constituency": "Carleton",
+    "email": "stewart.fairgrieve@gnb.ca",
+    "name": "Stewart Fairgrieve",
+    "party": "PC"
+  },
+  {
+    "constituency": "Carleton-Victoria",
+    "email": "andrew.harvey@gnb.ca",
+    "name": "Andrew Harvey",
+    "party": "L"
+  },
+  {
+    "constituency": "Victoria-La Vallée",
+    "email": "chuck.chiasson@gnb.ca",
+    "name": "Chuck Chiasson",
+    "party": "L"
+  },
+  {
+    "constituency": "Edmundston-Madawaska Centre",
+    "email": "jean-claude.d'amours@gnb.ca",
+    "name": "Jean-Claude",
+    "party": "L"
+  },
+  {
+    "constituency": "Madawaska Les Lacs-Edmundston",
+    "email": "francine.landry@gnb.ca",
+    "name": "Francine Landry",
+    "party": "L"
+  }
+]

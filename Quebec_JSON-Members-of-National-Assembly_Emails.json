@@ -1,0 +1,752 @@
+[
+  {
+    "name": "Simon Allaire",
+    "constituency": "Maskinongé",
+    "party": "Coalition avenir Québec",
+    "email": "Simon.Allaire.MASK@assnat.qc.ca"
+  },
+  {
+    "name": "Dominique Anglade",
+    "constituency": "Saint-Henri–Sainte-Anne",
+    "party": "Quebec Liberal Party",
+    "email": "Dominique.Anglade.SHSA@assnat.qc.ca"
+  },
+  {
+    "name": "Pierre Arcand",
+    "constituency": "Mont-Royal–Outremont",
+    "party": "Quebec Liberal Party",
+    "email": "Pierre.Arcand.MROU@assnat.qc.ca"
+  },
+  {
+    "name": "Joël Arseneau",
+    "constituency": "Îles-de-la-Madeleine",
+    "party": "Parti québécois",
+    "email": "Joel.Arseneau.IDLM@assnat.qc.ca"
+  },
+  {
+    "name": "Mario Asselin",
+    "constituency": "Vanier-Les Rivières",
+    "party": "Coalition avenir Québec",
+    "email": "Mario.Asselin.VANI@assnat.qc.ca"
+  },
+  {
+    "name": "André Bachand",
+    "constituency": "Richmond",
+    "party": "Coalition avenir Québec",
+    "email": "Andre.Bachand.RICM@assnat.qc.ca"
+  },
+  {
+    "name": "Gaétan Barrette",
+    "constituency": "La Pinière",
+    "party": "Quebec Liberal Party",
+    "email": "Gaetan.Barrette.LAPI@assnat.qc.ca"
+  },
+  {
+    "name": "Gilles Bélanger",
+    "constituency": "Orford",
+    "party": "Coalition avenir Québec",
+    "email": "Gilles.Belanger.ORFO@assnat.qc.ca"
+  },
+  {
+    "name": "Frantz Benjamin",
+    "constituency": "Viau",
+    "party": "Quebec Liberal Party",
+    "email": "Frantz.Benjamin.VIAU@assnat.qc.ca"
+  },
+  {
+    "name": "Pascal Bérubé",
+    "constituency": "Matane-Matapédia",
+    "party": "Parti québécois",
+    "email": "Pascal.Berube.MATN@assnat.qc.ca"
+  },
+  {
+    "name": "David Birnbaum",
+    "constituency": "D'Arcy-McGee",
+    "party": "Quebec Liberal Party",
+    "email": "David.Birnbaum.DMG@assnat.qc.ca"
+  },
+  {
+    "name": "Marguerite Blais",
+    "constituency": "Prévost",
+    "party": "Coalition avenir Québec",
+    "email": "Marguerite.Blais.PREV@assnat.qc.ca"
+  },
+  {
+    "name": "Suzanne Blais",
+    "constituency": "Abitibi-Ouest",
+    "party": "Coalition avenir Québec",
+    "email": "Suzanne.Blais.ABOU@assnat.qc.ca"
+  },
+  {
+    "name": "François Bonnardel",
+    "constituency": "Granby",
+    "party": "Coalition avenir Québec",
+    "email": "Francois.Bonnardel.GRAN@assnat.qc.ca"
+  },
+  {
+    "name": "Jean Boulet",
+    "constituency": "Trois-Rivières",
+    "party": "Coalition avenir Québec",
+    "email": "Jean.Boulet.TRRI@assnat.qc.ca"
+  },
+  {
+    "name": "Joëlle Boutin",
+    "constituency": "Jean-Talon",
+    "party": "Coalition avenir Québec",
+    "email": "Joelle.Boutin.JETA@assnat.qc.ca"
+  },
+  {
+    "name": "Robert Bussière",
+    "constituency": "Gatineau",
+    "party": "Coalition avenir Québec",
+    "email": "Robert.Bussiere.GATI@assnat.qc.ca"
+  },
+  {
+    "name": "Éric Caire",
+    "constituency": "La Peltrie",
+    "party": "Coalition avenir Québec",
+    "email": "Eric.Caire.LAPE@assnat.qc.ca"
+  },
+  {
+    "name": "Richard Campeau",
+    "constituency": "Bourget",
+    "party": "Coalition avenir Québec",
+    "email": "Richard.Campeau.BOUR@assnat.qc.ca"
+  },
+  {
+    "name": "Lionel Carmant",
+    "constituency": "Taillon",
+    "party": "Coalition avenir Québec",
+    "email": "Lionel.Carmant.TAIL@assnat.qc.ca"
+  },
+  {
+    "name": "Vincent Caron",
+    "constituency": "Portneuf",
+    "party": "Coalition avenir Québec",
+    "email": "Vincent.Caron.PORT@assnat.qc.ca"
+  },
+  {
+    "name": "Francine Charbonneau",
+    "constituency": "Mille-Îles",
+    "party": "Quebec Liberal Party",
+    "email": "Francine.Charbonneau.MIIL@assnat.qc.ca"
+  },
+  {
+    "name": "Isabelle Charest",
+    "constituency": "Brome-Missisquoi",
+    "party": "Coalition avenir Québec",
+    "email": "Isabelle.Charest.BRMI@assnat.qc.ca"
+  },
+  {
+    "name": "Benoit Charette",
+    "constituency": "Deux-Montagnes",
+    "party": "Coalition avenir Québec",
+    "email": "Benoit.Charette.DEMO@assnat.qc.ca"
+  },
+  {
+    "name": "MarieChantal Chassé",
+    "constituency": "Châteauguay",
+    "party": "Coalition avenir Québec",
+    "email": "MarieChantal.Chasse.CHAT@assnat.qc.ca"
+  },
+  {
+    "name": "Youri Chassin",
+    "constituency": "Saint-Jérôme",
+    "party": "Coalition avenir Québec",
+    "email": "Youri.Chassin.STJE@assnat.qc.ca"
+  },
+  {
+    "name": "Enrico Ciccone",
+    "constituency": "Marquette",
+    "party": "Quebec Liberal Party",
+    "email": "Enrico.Ciccone.MARQ@assnat.qc.ca"
+  },
+  {
+    "name": "Sylvie D'Amours",
+    "constituency": "Mirabel",
+    "party": "Coalition avenir Québec",
+    "email": "Sylvie.DAmours.MIRA@assnat.qc.ca"
+  },
+  {
+    "name": "Suzanne Dansereau",
+    "constituency": "Verchères",
+    "party": "Coalition avenir Québec",
+    "email": "Suzanne.Dansereau.VERC@assnat.qc.ca"
+  },
+  {
+    "name": "Hélène David",
+    "constituency": "Marguerite-Bourgeoys",
+    "party": "Quebec Liberal Party",
+    "email": "Helene.David.MABO@assnat.qc.ca"
+  },
+  {
+    "name": "Monsef Derraji",
+    "constituency": "Nelligan",
+    "party": "Quebec Liberal Party",
+    "email": "Monsef.Derraji.NELL@assnat.qc.ca"
+  },
+  {
+    "name": "Catherine Dorion",
+    "constituency": "Taschereau",
+    "party": "Québec solidaire",
+    "email": "Catherine.Dorion.TASC@assnat.qc.ca"
+  },
+  {
+    "name": "Christian Dubé",
+    "constituency": "La Prairie",
+    "party": "Coalition avenir Québec",
+    "email": "Christian.Dube.LAPR@assnat.qc.ca"
+  },
+  {
+    "name": "Pierre Dufour",
+    "constituency": "Abitibi-Est",
+    "party": "Coalition avenir Québec",
+    "email": "Pierre.Dufour.ABES@assnat.qc.ca"
+  },
+  {
+    "name": "Jean-Bernard Émond",
+    "constituency": "Richelieu",
+    "party": "Coalition avenir Québec",
+    "email": "Jean-Bernard.Emond.RICL@assnat.qc.ca"
+  },
+  {
+    "name": "Pierre Fitzgibbon",
+    "constituency": "Terrebonne",
+    "party": "Coalition avenir Québec",
+    "email": "Pierre.Fitzgibbon.TERR@assnat.qc.ca"
+  },
+  {
+    "name": "Andrés Fontecilla",
+    "constituency": "Laurier-Dorion",
+    "party": "Québec solidaire",
+    "email": "Andres.Fontecilla.LADO@assnat.qc.ca"
+  },
+  {
+    "name": "André Fortin",
+    "constituency": "Pontiac",
+    "party": "Quebec Liberal Party",
+    "email": "Andre.Fortin.PONT@assnat.qc.ca"
+  },
+  {
+    "name": "Émilie Foster",
+    "constituency": "Charlevoix–Côte-de-Beaupré",
+    "party": "Coalition avenir Québec",
+    "email": "Emilie.Foster.CHCB@assnat.qc.ca"
+  },
+  {
+    "name": "Catherine Fournier",
+    "constituency": "Marie-Victorin",
+    "party": "Independent",
+    "email": "Catherine.Fournier.MAVI@assnat.qc.ca"
+  },
+  {
+    "name": "Maryse Gaudreault",
+    "constituency": "Hull",
+    "party": "Quebec Liberal Party",
+    "email": "Maryse.Gaudreault.HULL@assnat.qc.ca"
+  },
+  {
+    "name": "Sylvain Gaudreault",
+    "constituency": "Jonquière",
+    "party": "Parti québécois",
+    "email": "Sylvain.Gaudreault.JONQ@assnat.qc.ca"
+  },
+  {
+    "name": "Ruba Ghazal",
+    "constituency": "Mercier",
+    "party": "Québec solidaire",
+    "email": "Ruba.Ghazal.MERC@assnat.qc.ca"
+  },
+  {
+    "name": "Eric Girard",
+    "constituency": "Groulx",
+    "party": "Coalition avenir Québec",
+    "email": "Eric.Girard.GROU@assnat.qc.ca"
+  },
+  {
+    "name": "Éric Girard",
+    "constituency": "Lac-Saint-Jean",
+    "party": "Coalition avenir Québec",
+    "email": "Eric.Girard.LSJ@assnat.qc.ca"
+  },
+  {
+    "name": "Nadine Girault",
+    "constituency": "Bertrand",
+    "party": "Coalition avenir Québec",
+    "email": "Nadine.Girault.BERR@assnat.qc.ca"
+  },
+  {
+    "name": "Agnès Grondin",
+    "constituency": "Argenteuil",
+    "party": "Coalition avenir Québec",
+    "email": "Agnes.Grondin.ARGE@assnat.qc.ca"
+  },
+  {
+    "name": "Geneviève Guilbault",
+    "constituency": "Louis-Hébert",
+    "party": "Coalition avenir Québec",
+    "email": "Genevieve.Guilbault.LOHE@assnat.qc.ca"
+  },
+  {
+    "name": "Nancy Guillemette",
+    "constituency": "Roberval",
+    "party": "Coalition avenir Québec",
+    "email": "Nancy.Guillemette.ROBE@assnat.qc.ca"
+  },
+  {
+    "name": "Geneviève Hébert",
+    "constituency": "Saint-François",
+    "party": "Coalition avenir Québec",
+    "email": "Genevieve.Hebert.SAFR@assnat.qc.ca"
+  },
+  {
+    "name": "Véronique Hivon",
+    "constituency": "Joliette",
+    "party": "Parti québécois",
+    "email": "Veronique.Hivon.JOLI@assnat.qc.ca"
+  },
+  {
+    "name": "Claire IsaBelle",
+    "constituency": "Huntingdon",
+    "party": "Coalition avenir Québec",
+    "email": "Claire.IsaBelle.HUNT@assnat.qc.ca"
+  },
+  {
+    "name": "François Jacques",
+    "constituency": "Mégantic",
+    "party": "Coalition avenir Québec",
+    "email": "Francois.Jacques.MEGA@assnat.qc.ca"
+  },
+  {
+    "name": "Chantale Jeannotte",
+    "constituency": "Labelle",
+    "party": "Coalition avenir Québec",
+    "email": "Chantale.Jeannotte.LABE@assnat.qc.ca"
+  },
+  {
+    "name": "Simon Jolin-Barrette",
+    "constituency": "Borduas",
+    "party": "Coalition avenir Québec",
+    "email": "sjb.BORD@assnat.qc.ca"
+  },
+  {
+    "name": "Jonatan Julien",
+    "constituency": "Charlesbourg",
+    "party": "Coalition avenir Québec",
+    "email": "Jonatan.Julien.CHLB@assnat.qc.ca"
+  },
+  {
+    "name": "Gregory Kelley",
+    "constituency": "Jacques-Cartier",
+    "party": "Quebec Liberal Party",
+    "email": "Gregory.Kelley.JACA@assnat.qc.ca"
+  },
+  {
+    "name": "Christine Labrie",
+    "constituency": "Sherbrooke",
+    "party": "Québec solidaire",
+    "email": "Christine.Labrie.SHER@assnat.qc.ca"
+  },
+  {
+    "name": "Stéphanie Lachance",
+    "constituency": "Bellechasse",
+    "party": "Coalition avenir Québec",
+    "email": "Stephanie.Lachance.BELL@assnat.qc.ca"
+  },
+  {
+    "name": "Mathieu Lacombe",
+    "constituency": "Papineau",
+    "party": "Coalition avenir Québec",
+    "email": "Mathieu.Lacombe.PAPI@assnat.qc.ca"
+  },
+  {
+    "name": "Andrée Laforest",
+    "constituency": "Chicoutimi",
+    "party": "Coalition avenir Québec",
+    "email": "Andree.Laforest.CHIC@assnat.qc.ca"
+  },
+  {
+    "name": "Mario Laframboise",
+    "constituency": "Blainville",
+    "party": "Coalition avenir Québec",
+    "email": "Mario.Laframboise.BLAI@assnat.qc.ca"
+  },
+  {
+    "name": "Ian Lafrenière",
+    "constituency": "Vachon",
+    "party": "Coalition avenir Québec",
+    "email": "Ian.Lafreniere.VACHON@assnat.qc.ca"
+  },
+  {
+    "name": "André Lamontagne",
+    "constituency": "Johnson",
+    "party": "Coalition avenir Québec",
+    "email": "Andre.Lamontagne.JOHN@assnat.qc.ca"
+  },
+  {
+    "name": "Denis Lamothe",
+    "constituency": "Ungava",
+    "party": "Coalition avenir Québec",
+    "email": "Denis.Lamothe.UNGA@assnat.qc.ca"
+  },
+  {
+    "name": "Lise Lavallée",
+    "constituency": "Repentigny",
+    "party": "Coalition avenir Québec",
+    "email": "Lise.Lavallee.REPE@assnat.qc.ca"
+  },
+  {
+    "name": "Harold LeBel",
+    "constituency": "Rimouski",
+    "party": "Independent",
+    "email": "Harold.Lebel.RIMO@assnat.qc.ca"
+  },
+  {
+    "name": "Sonia LeBel",
+    "constituency": "Champlain",
+    "party": "Coalition avenir Québec",
+    "email": "Sonia.LeBel.CHMP@assnat.qc.ca"
+  },
+  {
+    "name": "Isabelle Lecours",
+    "constituency": "Lotbinière-Frontenac",
+    "party": "Coalition avenir Québec",
+    "email": "Isabelle.Lecours.LOFR@assnat.qc.ca"
+  },
+  {
+    "name": "Lucie Lecours",
+    "constituency": "Les Plaines",
+    "party": "Coalition avenir Québec",
+    "email": "Lucie.Lecours.LPLA@assnat.qc.ca"
+  },
+  {
+    "name": "Alexandre Leduc",
+    "constituency": "Hochelaga-Maisonneuve",
+    "party": "Québec solidaire",
+    "email": "Alexandre.Leduc.HOCH@assnat.qc.ca"
+  },
+  {
+    "name": "Éric Lefebvre",
+    "constituency": "Arthabaska",
+    "party": "Coalition avenir Québec",
+    "email": "Eric.Lefebvre.ARTH@assnat.qc.ca"
+  },
+  {
+    "name": "François Legault",
+    "constituency": "L'Assomption",
+    "party": "Coalition avenir Québec",
+    "email": "Francois.Legault.ASSO@assnat.qc.ca"
+  },
+  {
+    "name": "Carlos J. Leitão",
+    "constituency": "Robert-Baldwin",
+    "party": "Quebec Liberal Party",
+    "email": "CarlosJ.Leitao.ROBA@assnat.qc.ca"
+  },
+  {
+    "name": "Mathieu Lemay",
+    "constituency": "Masson",
+    "party": "Coalition avenir Québec",
+    "email": "Mathieu.Lemay.MASS@assnat.qc.ca"
+  },
+  {
+    "name": "Louis Lemieux",
+    "constituency": "Saint-Jean",
+    "party": "Coalition avenir Québec",
+    "email": "Louis.Lemieux.SAJE@assnat.qc.ca"
+  },
+  {
+    "name": "Émilise Lessard-Therrien",
+    "constituency": "Rouyn-Noranda–Témiscamingue",
+    "party": "Québec solidaire",
+    "email": "Emilise.Lessard-Therrien.RNT@assnat.qc.ca"
+  },
+  {
+    "name": "Mathieu Lévesque",
+    "constituency": "Chapleau",
+    "party": "Coalition avenir Québec",
+    "email": "Mathieu.Levesque.CHAP@assnat.qc.ca"
+  },
+  {
+    "name": "Sylvain Lévesque",
+    "constituency": "Chauveau",
+    "party": "Coalition avenir Québec",
+    "email": "Sylvain.Levesque.CHAU@assnat.qc.ca"
+  },
+  {
+    "name": "Jennifer Maccarone",
+    "constituency": "Westmount–Saint-Louis",
+    "party": "Quebec Liberal Party",
+    "email": "Jennifer.Maccarone.WSL@assnat.qc.ca"
+  },
+  {
+    "name": "Vincent Marissal",
+    "constituency": "Rosemont",
+    "party": "Québec solidaire",
+    "email": "Vincent.Marissal.ROSE@assnat.qc.ca"
+  },
+  {
+    "name": "Donald Martel",
+    "constituency": "Nicolet-Bécancour",
+    "party": "Coalition avenir Québec",
+    "email": "Donald.Martel.NICO@assnat.qc.ca"
+  },
+  {
+    "name": "Manon Massé",
+    "constituency": "Sainte-Marie–Saint-Jacques",
+    "party": "Québec solidaire",
+    "email": "Manon.Masse.SMSJ@assnat.qc.ca"
+  },
+  {
+    "name": "Danielle McCann",
+    "constituency": "Sanguinet",
+    "party": "Coalition avenir Québec",
+    "email": "Danielle.McCann.SAGU@assnat.qc.ca"
+  },
+  {
+    "name": "Isabelle Melançon",
+    "constituency": "Verdun",
+    "party": "Quebec Liberal Party",
+    "email": "Isabelle.Melancon.VERD@assnat.qc.ca"
+  },
+  {
+    "name": "Nicole Ménard",
+    "constituency": "Laporte",
+    "party": "Quebec Liberal Party",
+    "email": "Nicole.Menard.LAPO@assnat.qc.ca"
+  },
+  {
+    "name": "Marie Montpetit",
+    "constituency": "Maurice-Richard",
+    "party": "Quebec Liberal Party",
+    "email": "Marie.Montpetit.MAUR@assnat.qc.ca"
+  },
+  {
+    "name": "Gabriel Nadeau-Dubois",
+    "constituency": "Gouin",
+    "party": "Québec solidaire",
+    "email": "Gabriel.Nadeau-Dubois.GOUI@assnat.qc.ca"
+  },
+  {
+    "name": "Marie-Claude Nichols",
+    "constituency": "Vaudreuil",
+    "party": "Quebec Liberal Party",
+    "email": "Marie-Claude.Nichols.VAUD@assnat.qc.ca"
+  },
+  {
+    "name": "Martin Ouellet",
+    "constituency": "René-Lévesque",
+    "party": "Parti québécois",
+    "email": "Martin.Ouellet.RELE@assnat.qc.ca"
+  },
+  {
+    "name": "Guy Ouellette",
+    "constituency": "Chomedey",
+    "party": "Independent",
+    "email": "Guy.Ouellette.CHOM@assnat.qc.ca"
+  },
+  {
+    "name": "François Paradis",
+    "constituency": "Lévis",
+    "party": "Coalition avenir Québec",
+    "email": "Francois.Paradis.LEVI@assnat.qc.ca"
+  },
+  {
+    "name": "Méganne Perry Mélançon",
+    "constituency": "Gaspé",
+    "party": "Parti québécois",
+    "email": "Meganne.PerryMelancon.GASP@assnat.qc.ca"
+  },
+  {
+    "name": "Marc Picard",
+    "constituency": "Chutes-de-la-Chaudière",
+    "party": "Coalition avenir Québec",
+    "email": "Marc.Picard.CDLC@assnat.qc.ca"
+  },
+  {
+    "name": "Marilyne Picard",
+    "constituency": "Soulanges",
+    "party": "Coalition avenir Québec",
+    "email": "Marilyne.Picard.SOUL@assnat.qc.ca"
+  },
+  {
+    "name": "Saul Polo",
+    "constituency": "Laval-des-Rapides",
+    "party": "Quebec Liberal Party",
+    "email": "Saul.Polo.LDR@assnat.qc.ca"
+  },
+  {
+    "name": "Samuel Poulin",
+    "constituency": "Beauce-Sud",
+    "party": "Coalition avenir Québec",
+    "email": "Samuel.Poulin.BESU@assnat.qc.ca"
+  },
+  {
+    "name": "Caroline Proulx",
+    "constituency": "Berthier",
+    "party": "Coalition avenir Québec",
+    "email": "Caroline.Proulx.BERH@assnat.qc.ca"
+  },
+  {
+    "name": "Marie-Eve Proulx",
+    "constituency": "Côte-du-Sud",
+    "party": "Coalition avenir Québec",
+    "email": "Marie-Eve.Proulx.CDS@assnat.qc.ca"
+  },
+  {
+    "name": "Luc Provençal",
+    "constituency": "Beauce-Nord",
+    "party": "Coalition avenir Québec",
+    "email": "Luc.Provencal.BENO@assnat.qc.ca"
+  },
+  {
+    "name": "Claude Reid",
+    "constituency": "Beauharnois",
+    "party": "Coalition avenir Québec",
+    "email": "Claude.Reid.BEAU@assnat.qc.ca"
+  },
+  {
+    "name": "Lorraine Richard",
+    "constituency": "Duplessis",
+    "party": "Parti québécois",
+    "email": "Lorraine.Richard.DUPL@assnat.qc.ca"
+  },
+  {
+    "name": "Marwah Rizqy",
+    "constituency": "Saint-Laurent",
+    "party": "Quebec Liberal Party",
+    "email": "Marwah.Rizqy.STLO@assnat.qc.ca"
+  },
+  {
+    "name": "Jean-François Roberge",
+    "constituency": "Chambly",
+    "party": "Coalition avenir Québec",
+    "email": "Jean-Francois.Roberge.CHMB@assnat.qc.ca"
+  },
+  {
+    "name": "Paule Robitaille",
+    "constituency": "Bourassa-Sauvé",
+    "party": "Quebec Liberal Party",
+    "email": "Paule.Robitaille.BOSA@assnat.qc.ca"
+  },
+  {
+    "name": "Filomena Rotiroti",
+    "constituency": "Jeanne-Mance–Viger",
+    "party": "Quebec Liberal Party",
+    "email": "Filomena.Rotiroti.JMV@assnat.qc.ca"
+  },
+  {
+    "name": "Chantal Rouleau",
+    "constituency": "Pointe-aux-Trembles",
+    "party": "Coalition avenir Québec",
+    "email": "Chantal.Rouleau.PAT@assnat.qc.ca"
+  },
+  {
+    "name": "Jean Rousselle",
+    "constituency": "Vimont",
+    "party": "Quebec Liberal Party",
+    "email": "Jean.Rousselle.VIMO@assnat.qc.ca"
+  },
+  {
+    "name": "Nathalie Roy",
+    "constituency": "Montarville",
+    "party": "Coalition avenir Québec",
+    "email": "Nathalie.Roy.MOTA@assnat.qc.ca"
+  },
+  {
+    "name": "Sylvain Roy",
+    "constituency": "Bonaventure",
+    "party": "Parti québécois",
+    "email": "Sylvain.Roy.BONA@assnat.qc.ca"
+  },
+  {
+    "name": "Claire Samson",
+    "constituency": "Iberville",
+    "party": "Coalition avenir Québec",
+    "email": "Claire.Samson.IBER@assnat.qc.ca"
+  },
+  {
+    "name": "Monique Sauvé",
+    "constituency": "Fabre",
+    "party": "Quebec Liberal Party",
+    "email": "Monique.Sauve.FABR@assnat.qc.ca"
+  },
+  {
+    "name": "Sébastien Schneeberger",
+    "constituency": "Drummond–Bois-Francs",
+    "party": "Coalition avenir Québec",
+    "email": "Sebastien.Schneeberger.DRUM@assnat.qc.ca"
+  },
+  {
+    "name": "Jean-François Simard",
+    "constituency": "Montmorency",
+    "party": "Coalition avenir Québec",
+    "email": "Jean-Francois.Simard.MONT@assnat.qc.ca"
+  },
+  {
+    "name": "Christopher Skeete",
+    "constituency": "Sainte-Rose",
+    "party": "Coalition avenir Québec",
+    "email": "Christopher.Skeete.SARO@assnat.qc.ca"
+  },
+  {
+    "name": "Chantal Soucy",
+    "constituency": "Saint-Hyacinthe",
+    "party": "Coalition avenir Québec",
+    "email": "Chantal.Soucy.SAHY@assnat.qc.ca"
+  },
+  {
+    "name": "Christine St-Pierre",
+    "constituency": "Acadie",
+    "party": "Quebec Liberal Party",
+    "email": "Christine.St-Pierre.ACAD@assnat.qc.ca"
+  },
+  {
+    "name": "Marc Tanguay",
+    "constituency": "LaFontaine",
+    "party": "Quebec Liberal Party",
+    "email": "Marc.Tanguay-LAFO@assnat.qc.ca"
+  },
+  {
+    "name": "Denis Tardif",
+    "constituency": "Rivière-du-Loup–Témiscouata",
+    "party": "Independent",
+    "email": "Denis.Tardif.RDLT@assnat.qc.ca"
+  },
+  {
+    "name": "Marie-Louise Tardif",
+    "constituency": "Laviolette–Saint-Maurice",
+    "party": "Coalition avenir Québec",
+    "email": "Marie-Louise.Tardif.LASM@assnat.qc.ca"
+  },
+  {
+    "name": "Lise Thériault",
+    "constituency": "Anjou–Louis-Riel",
+    "party": "Quebec Liberal Party",
+    "email": "ltheriault-anjo@assnat.qc.ca"
+  },
+  {
+    "name": "Louis-Charles Thouin",
+    "constituency": "Rousseau",
+    "party": "Coalition avenir Québec",
+    "email": "Louis-Charles.Thouin.ROUS@assnat.qc.ca"
+  },
+  {
+    "name": "François Tremblay",
+    "constituency": "Dubuc",
+    "party": "Coalition avenir Québec",
+    "email": "Francois.Tremblay.DUBU@assnat.qc.ca"
+  },
+  {
+    "name": "Kathleen Weil",
+    "constituency": "Notre-Dame-de-Grâce",
+    "party": "Quebec Liberal Party",
+    "email": "Kathleen.Weil.NDDG@assnat.qc.ca"
+  },
+  {
+    "name": "Sol Zanetti",
+    "constituency": "Jean-Lesage",
+    "party": "Québec solidaire",
+    "email": "Sol.Zanetti.JELE@assnat.qc.ca"
+  }
+]

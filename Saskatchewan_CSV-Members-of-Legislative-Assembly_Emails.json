@@ -1,0 +1,429 @@
+[
+  {
+    "name": "Carla Beck",
+    "party": "New Democratic Party",
+    "constituency": "Regina Lakeview",
+    "email": "reginalakeview@ndpcaucus.sk.ca",
+    "honorific": "Ms."
+  },
+  {
+    "name": "Buckley Belanger",
+    "party": "New Democratic Party",
+    "constituency": "Athabasca",
+    "email": "athabasca@ndpcaucus.sk.ca",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Steven Bonk",
+    "party": "Saskatchewan Party",
+    "constituency": "Moosomin",
+    "email": "stevenbonkmla@sasktel.net",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Jennifer Bowes",
+    "party": "New Democratic Party",
+    "constituency": "Saskatoon University",
+    "email": "saskatoonuniversity@ndpcaucus.sk.ca",
+    "honorific": "Ms."
+  },
+  {
+    "name": "Fred Bradshaw",
+    "party": "Saskatchewan Party",
+    "constituency": "Carrot River Valley",
+    "email": "fbradshaw.mla@sasktel.net",
+    "honorific": "Hon."
+  },
+  {
+    "name": "David Buckingham",
+    "party": "Saskatchewan Party",
+    "constituency": "Saskatoon Westview",
+    "email": "davidbuckinghammla@gmail.com",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Lori Carr",
+    "party": "Saskatchewan Party",
+    "constituency": "Estevan",
+    "email": "loricarrmla@sasktel.net",
+    "honorific": "Hon."
+  },
+  {
+    "name": "Ken Cheveldayoff",
+    "party": "Saskatchewan Party",
+    "constituency": "Saskatoon Willowgrove",
+    "email": "ken.cheveldayoff.mla@sasktel.net",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Jeremy Cockrill",
+    "party": "Saskatchewan Party",
+    "constituency": "The Battlefords",
+    "email": "office@jeremycockrill.ca",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Meara Conway",
+    "party": "New Democratic Party",
+    "constituency": "Regina Elphinstone-Centre",
+    "email": "reginaelphinstonecentre@ndpcaucus.sk.ca",
+    "honorific": "Ms."
+  },
+  {
+    "name": "Terry Dennis",
+    "party": "Saskatchewan Party",
+    "constituency": "Canora-Pelly",
+    "email": "Canora.PellyMLA@sasktel.net",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Mark Docherty",
+    "party": "Saskatchewan Party",
+    "constituency": "Regina Coronation Park",
+    "email": "markdochertymla@sasktel.net",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Ryan Domotor",
+    "party": "Saskatchewan Party",
+    "constituency": "Cut Knife-Turtleford",
+    "email": "domotor.mla@sasktel.net",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Dustin Duncan",
+    "party": "Saskatchewan Party",
+    "constituency": "Weyburn-Big Muddy",
+    "email": "dduncan.mla@accesscomm.ca",
+    "honorific": "Hon."
+  },
+  {
+    "name": "Bronwyn Eyre",
+    "party": "Saskatchewan Party",
+    "constituency": "Saskatoon Stonebridge-Dakota",
+    "email": "bronwyn.eyre.mla@sasktel.net",
+    "honorific": "Hon."
+  },
+  {
+    "name": "Muhammad Fiaz",
+    "party": "Saskatchewan Party",
+    "constituency": "Regina Pasqua",
+    "email": "mfiaz.mla@sasktel.net",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Ken Francis",
+    "party": "Saskatchewan Party",
+    "constituency": "Kindersley",
+    "email": "kfrancismla@gmail.com",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Marv Friesen",
+    "party": "Saskatchewan Party",
+    "constituency": "Saskatoon Riversdale",
+    "email": "marvfriesen@sasktel.net",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Todd Goudy",
+    "party": "Saskatchewan Party",
+    "constituency": "Melfort",
+    "email": "goudymla@gmail.com",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Gary Grewal",
+    "party": "Saskatchewan Party",
+    "constituency": "Regina Northeast",
+    "email": "garygrewalmla@sasktel.net",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Joe Hargrave",
+    "party": "Saskatchewan Party",
+    "constituency": "Prince Albert Carlton",
+    "email": "pacarltonmla@sasktel.net",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Donna Harpauer",
+    "party": "Saskatchewan Party",
+    "constituency": "Humboldt-Watrous",
+    "email": "humboldtwatrousmla@sasktel.net",
+    "honorific": "Hon."
+  },
+  {
+    "name": "Daryl Harrison",
+    "party": "Saskatchewan Party",
+    "constituency": "Cannington",
+    "email": "canningtonconstituency@sasktel.net",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Jeremy Harrison",
+    "party": "Saskatchewan Party",
+    "constituency": "Meadow Lake",
+    "email": "jharrisonmla@sasktel.net",
+    "honorific": "Hon."
+  },
+  {
+    "name": "Everett Hindley",
+    "party": "Saskatchewan Party",
+    "constituency": "Swift Current",
+    "email": "everettmla@sasktel.net",
+    "honorific": "Hon."
+  },
+  {
+    "name": "Terry Jenson",
+    "party": "Saskatchewan Party",
+    "constituency": "Martensville-Warman",
+    "email": "office@terryjenson.ca",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Warren Kaeding",
+    "party": "Saskatchewan Party",
+    "constituency": "Melville-Saltcoats",
+    "email": "warrenkaedingmla@sasktel.net",
+    "honorific": "Hon."
+  },
+  {
+    "name": "Travis Keisig",
+    "party": "Saskatchewan Party",
+    "constituency": "Last Mountain-Touchwood",
+    "email": "lastmountaintouchwood.mla@sasktel.net",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Delbert Kirsch",
+    "party": "Saskatchewan Party",
+    "constituency": "Batoche",
+    "email": "batochemla@sasktel.net",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Lisa Lambert",
+    "party": "Saskatchewan Party",
+    "constituency": "Saskatoon Churchill-Wildwood",
+    "email": "mla@lisalambert.ca",
+    "honorific": "Ms."
+  },
+  {
+    "name": "Greg Lawrence",
+    "party": "Saskatchewan Party",
+    "constituency": "Moose Jaw Wakamow",
+    "email": "greglawrencemla@sasktel.net",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Matt Love",
+    "party": "New Democratic Party",
+    "constituency": "Saskatoon Eastview",
+    "email": "saskatooneastview@ndpcaucus.sk.ca",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Gene Makowsky",
+    "party": "Saskatchewan Party",
+    "constituency": "Regina Gardiner Park",
+    "email": "gmakowsky.mla@sasktel.net",
+    "honorific": "Hon."
+  },
+  {
+    "name": "David Marit",
+    "party": "Saskatchewan Party",
+    "constituency": "Wood River",
+    "email": "mlawoodriver@sasktel.net",
+    "honorific": "Hon."
+  },
+  {
+    "name": "Tim McLeod",
+    "party": "Saskatchewan Party",
+    "constituency": "Moose Jaw North",
+    "email": "mjnorthmla@sasktel.net",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Don McMorris",
+    "party": "Saskatchewan Party",
+    "constituency": "Indian Head-Milestone",
+    "email": "mcmorris.mla@sasktel.net",
+    "honorific": "Hon."
+  },
+  {
+    "name": "Ryan Meili",
+    "party": "New Democratic Party",
+    "constituency": "Saskatoon Meewasin",
+    "email": "saskatoonmeewasin@ndpcaucus.sk.ca",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Paul Merriman",
+    "party": "Saskatchewan Party",
+    "constituency": "Saskatoon Silverspring-Sutherland",
+    "email": "office@paulmerriman.ca",
+    "honorific": "Hon."
+  },
+  {
+    "name": "Derek Meyers",
+    "party": "Saskatchewan Party",
+    "constituency": "Regina Walsh Acres",
+    "email": "derekmeyersmla@sasktel.net",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Scott Moe",
+    "party": "Saskatchewan Party",
+    "constituency": "Rosthern-Shellbrook",
+    "email": "scottmoe.mla@sasktel.net;",
+    "honorific": "Hon."
+  },
+  {
+    "name": "Don Morgan",
+    "party": "Saskatchewan Party",
+    "constituency": "Saskatoon Southeast",
+    "email": "mla@donmorgan.ca",
+    "honorific": "Hon."
+  },
+  {
+    "name": "Vicki Mowat",
+    "party": "New Democratic Party",
+    "constituency": "Saskatoon Fairview",
+    "email": "saskatoonfairview@ndpcaucus.sk.ca",
+    "honorific": "Ms."
+  },
+  {
+    "name": "Hugh Nerlien",
+    "party": "Saskatchewan Party",
+    "constituency": "Kelvington-Wadena",
+    "email": "nerlien.mla@sasktel.net",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Betty Nippi-Albright",
+    "party": "New Democratic Party",
+    "constituency": "Saskatoon Centre",
+    "email": "saskatooncentre@ndpcaucus.sk.ca",
+    "honorific": "Ms."
+  },
+  {
+    "name": "Greg Ottenbreit",
+    "party": "Saskatchewan Party",
+    "constituency": "Yorkton",
+    "email": "yorkton.mla@sasktel.net",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Jim Reiter",
+    "party": "Saskatchewan Party",
+    "constituency": "Rosetown-Elrose",
+    "email": "jimreitermla@sasktel.net",
+    "honorific": "Hon."
+  },
+  {
+    "name": "Erika Ritchie",
+    "party": "New Democratic Party",
+    "constituency": "Saskatoon Nutana",
+    "email": "saskatoonnutana@ndpcaucus.sk.ca",
+    "honorific": "Ms."
+  },
+  {
+    "name": "Alana Ross",
+    "party": "Saskatchewan Party",
+    "constituency": "Prince Albert Northcote",
+    "email": "alanarossmla@sasktel.net",
+    "honorific": "Ms."
+  },
+  {
+    "name": "Laura Ross",
+    "party": "Saskatchewan Party",
+    "constituency": "Regina Rochdale",
+    "email": "laurarossmla@sasktel.net",
+    "honorific": "Hon."
+  },
+  {
+    "name": "Nicole Sarauer",
+    "party": "New Democratic Party",
+    "constituency": "Regina Douglas Park",
+    "email": "reginadouglaspark@ndpcaucus.sk.ca",
+    "honorific": "Ms."
+  },
+  {
+    "name": "Dana Skoropad",
+    "party": "Saskatchewan Party",
+    "constituency": "Arm River",
+    "email": "armriver.mla@gmail.com",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Doug Steele",
+    "party": "Saskatchewan Party",
+    "constituency": "Cypress Hills",
+    "email": "steelemla@sasktel.net",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Lyle Stewart",
+    "party": "Saskatchewan Party",
+    "constituency": "Lumsden-Morse",
+    "email": "lumsdenmorse.mla@sasktel.net",
+    "honorific": "Hon."
+  },
+  {
+    "name": "Christine Tell",
+    "party": "Saskatchewan Party",
+    "constituency": "Regina Wascana Plains",
+    "email": "christinetellmla@accesscomm.ca",
+    "honorific": "Hon."
+  },
+  {
+    "name": "Doyle Vermette",
+    "party": "New Democratic Party",
+    "constituency": "Cumberland",
+    "email": "cumberland@ndpcaucus.sk.ca",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Randy Weekes",
+    "party": "Saskatchewan Party",
+    "constituency": "Biggar-Sask Valley",
+    "email": "randyweekes.mla@accesscomm.ca",
+    "honorific": "Hon."
+  },
+  {
+    "name": "Nadine Wilson",
+    "party": "Saskatchewan Party",
+    "constituency": "Saskatchewan Rivers",
+    "email": "saskatchewanrivers@sasktel.net",
+    "honorific": "Ms."
+  },
+  {
+    "name": "Trent Wotherspoon",
+    "party": "New Democratic Party",
+    "constituency": "Regina Rosemont",
+    "email": "reginarosemont@ndpcaucus.sk.ca",
+    "honorific": "Mr."
+  },
+  {
+    "name": "Gordon Wyant",
+    "party": "Saskatchewan Party",
+    "constituency": "Saskatoon Northwest",
+    "email": "g.wyant.mla@sasktel.net",
+    "honorific": "Hon."
+  },
+  {
+    "name": "Aleana Young",
+    "party": "New Democratic Party",
+    "constituency": "Regina University",
+    "email": "reginauniversity@ndpcaucus.sk.ca",
+    "honorific": "Ms."
+  },
+  {
+    "name": "Colleen Young",
+    "party": "Saskatchewan Party",
+    "constituency": "Lloydminster",
+    "email": "colleen.young@sasktel.net",
+    "honorific": "Ms."
+  }
+]

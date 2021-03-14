@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Ted Adel",
+    "constituency": "Copperbelt North",
+    "party": "Yukon Liberal Party",
+    "phone": "867-393-7470",
+    "fax": "867-393-7135",
+    "email": "ted.adel@yukon.ca"
+  },
+  {
+    "name": "Brad Cathers",
+    "constituency": "Lake Laberge",
+    "party": "Yukon Party",
+    "phone": "867-667-8625",
+    "fax": "867-393-6982",
+    "email": "Brad.Cathers@yla.gov.yk.ca"
+  },
+  {
+    "name": "Hon. Nils Clarke",
+    "constituency": "Riverdale North",
+    "party": "Yukon Liberal Party",
+    "phone": "867-667-5662",
+    "fax": "867-393-6280",
+    "email": "nils.clarke@yukon.ca"
+  },
+  {
+    "name": "Hon. Pauline Frost",
+    "constituency": "Vuntut Gwitchin",
+    "party": "Yukon Liberal Party",
+    "phone": "867-393-7467",
+    "fax": "867-393-7135",
+    "email": "Pauline.Frost@yukon.ca"
+  },
+  {
+    "name": "Paolo Gallina",
+    "constituency": "Porter Creek Centre",
+    "party": "Yukon Liberal Party",
+    "phone": "867-393-7470",
+    "fax": "867-393-7135",
+    "email": "Paolo.Gallina@yukon.ca"
+  },
+  {
+    "name": "Liz Hanson",
+    "constituency": "Whitehorse Centre",
+    "party": "New Democratic Party",
+    "phone": "867-393-7059",
+    "fax": "867-393-6499",
+    "email": "Elizabeth.Hanson@yla.gov.yk.ca"
+  },
+  {
+    "name": "Stacey Hassard",
+    "constituency": "Pelly-Nisutlin",
+    "party": "Yukon Party",
+    "phone": "867-393-7104",
+    "fax": "867-393-6982",
+    "email": "Stacey.Hassard@yla.gov.yk.ca"
+  },
+  {
+    "name": "Don Hutton",
+    "constituency": "Mayo-Tatchun",
+    "party": "Independent",
+    "phone": "867-667-5498",
+    "fax": "867-393-6280",
+    "email": "Don.Hutton@yla.gov.yk.ca"
+  },
+  {
+    "name": "Wade Istchenko",
+    "constituency": "Kluane",
+    "party": "Yukon Party",
+    "phone": "867-393-7104",
+    "fax": "867-393-6982",
+    "email": "Wade.Istchenko@yla.gov.yk.ca"
+  },
+  {
+    "name": "Scott Kent",
+    "constituency": "Copperbelt South",
+    "party": "Yukon Party",
+    "phone": "867-393-7104",
+    "fax": "867-393-6982",
+    "email": "Scott.Kent@yla.gov.yk.ca"
+  },
+  {
+    "name": "Hon. Jeanie McLean",
+    "constituency": "Mountainview",
+    "party": "Yukon Liberal Party",
+    "phone": "867-393-7494",
+    "fax": "867-393-7135",
+    "email": "Jeanie.McLean@yukon.ca"
+  },
+  {
+    "name": "Patti McLeod",
+    "constituency": "Watson Lake",
+    "party": "Yukon Party",
+    "phone": "867-393-7104",
+    "fax": "867-393-6982",
+    "email": "Patti.McLeod@yla.gov.yk.ca"
+  },
+  {
+    "name": "Hon. Tracy-Anne McPhee",
+    "constituency": "Riverdale South",
+    "party": "Yukon Liberal Party",
+    "phone": "867-393-7488",
+    "fax": "867-393-7135",
+    "email": "Tracy.McPhee@yukon.ca"
+  },
+  {
+    "name": "Hon. Richard Mostyn",
+    "constituency": "Whitehorse West",
+    "party": "Yukon Liberal Party",
+    "phone": "867-393-7482",
+    "fax": "867-393-7135",
+    "email": "Richard.Mostyn@yukon.ca"
+  },
+  {
+    "name": "Hon. Ranj Pillai",
+    "constituency": "Porter Creek South",
+    "party": "Yukon Liberal Party",
+    "phone": "867-393-7418",
+    "fax": "867-393-7135",
+    "email": "Ranj.Pillai@yukon.ca"
+  },
+  {
+    "name": "Hon. Sandy Silver",
+    "constituency": "Klondike",
+    "party": "Yukon Liberal Party",
+    "phone": "867-393-7142",
+    "fax": "867-393-7135",
+    "email": "sandy.silver@yukon.ca"
+  },
+  {
+    "name": "Hon. John Streicker",
+    "constituency": "Mount Lorne-Southern Lakes",
+    "party": "Yukon Liberal Party",
+    "phone": "867-393-7427",
+    "fax": "867-393-7135",
+    "email": "John.Streicker@yukon.ca"
+  },
+  {
+    "name": "Geraldine Van Bibber",
+    "constituency": "Porter Creek North",
+    "party": "Yukon Party",
+    "phone": "867-393-7104",
+    "fax": "867-393-6982",
+    "email": "Geraldine.VanBibber@yla.gov.yk.ca"
+  },
+  {
+    "name": "Kate White",
+    "constituency": "Takhini-Kopper King",
+    "party": "New Democratic Party",
+    "phone": "867-393-7001",
+    "fax": "867-393-6499",
+    "email": "kate.white@yla.gov.yk.ca"
+  }
+]

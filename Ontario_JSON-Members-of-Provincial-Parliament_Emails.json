@@ -1,0 +1,485 @@
+[
+  {
+    "name": "Deepak Anand",
+    "email": "deepak.anand@pc.ola.org",
+    "telephone": "416-326-7528",
+    "constituency": "Mississauga—Malton",
+    "party": "Progressive Conservative Party of Ontario"
+  },
+  {
+    "name": "Jill Andrew",
+    "email": "JAndrew-QP@ndp.on.ca",
+    "telephone": "416-325-0071",
+    "constituency": "Toronto—St. Paul's",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Teresa Armstrong",
+    "email": "tarmstrong-qp@ndp.on.ca",
+    "telephone": "416-325-1872",
+    "constituency": "London—Fanshawe",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Ted Arnott",
+    "email": "ted.arnott@pc.ola.org",
+    "telephone": "416-325-3880",
+    "constituency": "Wellington—Halton Hills",
+    "party": "Progressive Conservative Party of Ontario"
+  },
+  {
+    "name": "Ian Arthur",
+    "email": "IArthur-QP@ndp.on.ca",
+    "telephone": "416-325-0168",
+    "constituency": "Kingston and the Islands",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Roman Baber",
+    "email": "rbaber@ola.org",
+    "telephone": "416-326-7114",
+    "constituency": "York Centre",
+    "party": "Independent"
+  },
+  {
+    "name": "Aris Babikian",
+    "email": "aris.babikian@pc.ola.org",
+    "telephone": "416-326-7111",
+    "constituency": "Scarborough—Agincourt",
+    "party": "Progressive Conservative Party of Ontario"
+  },
+  {
+    "name": "Doly Begum",
+    "email": "DBegum-QP@ndp.on.ca",
+    "telephone": "416-325-0908",
+    "constituency": "Scarborough Southwest",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Jessica Bell",
+    "email": "JBell-QP@ndp.on.ca",
+    "telephone": "416-325-1620",
+    "constituency": "University—Rosedale",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Rima Berns-McGown",
+    "email": "RBerns-McGown-QP@ndp.on.ca",
+    "telephone": "416-325-2881",
+    "constituency": "Beaches—East York",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Gilles Bisson",
+    "email": "gbisson@ndp.on.ca",
+    "telephone": "416-325-7122",
+    "constituency": "Timmins",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Stephen Blais",
+    "email": "sblais.mpp.co@liberal.ola.org",
+    "telephone": "",
+    "constituency": "Orléans",
+    "party": "Ontario Liberal Party"
+  },
+  {
+    "name": "Guy Bourgouin",
+    "email": "GBourgouin-QP@ndp.on.ca",
+    "telephone": "416-326-7351",
+    "constituency": "Mushkegowuk—James Bay",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Jeff Burch",
+    "email": "JBurch-QP@ndp.on.ca",
+    "telephone": "416-325-3990",
+    "constituency": "Niagara Centre",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Paul Calandra",
+    "email": "paul.calandra@pc.ola.org",
+    "telephone": "416-325-7754",
+    "constituency": "Markham—Stouffville",
+    "party": "Progressive Conservative Party of Ontario"
+  },
+  {
+    "name": "Lorne Coe",
+    "email": "lorne.coe@pc.ola.org",
+    "telephone": "416-325-1331",
+    "constituency": "Whitby",
+    "party": "Progressive Conservative Party of Ontario"
+  },
+  {
+    "name": "Lucille Collard",
+    "email": "LCollard.mpp.co@liberal.ola.org",
+    "telephone": "416-325-0007",
+    "constituency": "Ottawa—Vanier",
+    "party": "Ontario Liberal Party"
+  },
+  {
+    "name": "Michael Coteau",
+    "email": "mcoteau.mpp.co@liberal.ola.org",
+    "telephone": "416-325-4544",
+    "constituency": "Don Valley East",
+    "party": "Ontario Liberal Party"
+  },
+  {
+    "name": "Amy Fee",
+    "email": "amy.fee@pc.ola.org",
+    "telephone": "416-325-7754",
+    "constituency": "Kitchener South—Hespeler",
+    "party": "Progressive Conservative Party of Ontario"
+  },
+  {
+    "name": "Catherine Fife",
+    "email": "cfife-qp@ndp.on.ca",
+    "telephone": "416-325-6913",
+    "constituency": "Waterloo",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Doug Ford",
+    "email": "doug.fordco@pc.ola.org",
+    "telephone": "416-325-1941",
+    "constituency": "Etobicoke North",
+    "party": "Progressive Conservative Party of Ontario"
+  },
+  {
+    "name": "John Fraser",
+    "email": "Jfraser.mpp.co@liberal.ola.org",
+    "telephone": "416-325-4670",
+    "constituency": "Ottawa South",
+    "party": "Ontario Liberal Party"
+  },
+  {
+    "name": "Jennifer French",
+    "email": "JFrench-QP@ndp.on.ca",
+    "telephone": "416-325-0117",
+    "constituency": "Oshawa",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Wayne Gates",
+    "email": "wgates-qp@ndp.on.ca",
+    "telephone": "416-212-6102",
+    "constituency": "Niagara Falls",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Goldie Ghamari",
+    "email": "goldie.ghamari@pc.ola.org",
+    "telephone": "416-325-4890",
+    "constituency": "Carleton",
+    "party": "Progressive Conservative Party of Ontario"
+  },
+  {
+    "name": "Chris Glover",
+    "email": "CGlover-CO@ndp.on.ca",
+    "telephone": "416-326-7196",
+    "constituency": "Spadina—Fort York",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Michael Gravelle",
+    "email": "mgravelle.mpp.co@liberal.ola.org",
+    "telephone": "416-325-4757",
+    "constituency": "Thunder Bay—Superior North",
+    "party": "Ontario Liberal Party"
+  },
+  {
+    "name": "Lisa Gretzky",
+    "email": "LGretzky-QP@ndp.on.ca",
+    "telephone": "416-325-0235",
+    "constituency": "Windsor West",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "France Gélinas",
+    "email": "fgelinas-qp@ndp.on.ca",
+    "telephone": "416-325-9203",
+    "constituency": "Nickel Belt",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Joel Harden",
+    "email": "JHarden-QP@ndp.on.ca",
+    "telephone": "416-326-7648",
+    "constituency": "Ottawa Centre",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Faisal Hassan",
+    "email": "FHassan-QP@ndp.on.ca",
+    "telephone": "416-326-6961",
+    "constituency": "York South—Weston",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Percy Hatfield",
+    "email": "PHatfield-QP@ndp.on.ca",
+    "telephone": "416-325-6773",
+    "constituency": "Windsor—Tecumseh",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Randy Hillier",
+    "email": "RHillier-CO@ola.org",
+    "telephone": "416-325-2244",
+    "constituency": "Lanark—Frontenac—Kingston",
+    "party": "Independent"
+  },
+  {
+    "name": "Andrea Horwath",
+    "email": "horwatha-qp@ndp.on.ca",
+    "telephone": "416-325-7116",
+    "constituency": "Hamilton Centre",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Mitzie Hunter",
+    "email": "mhunter.mpp.co@liberal.ola.org",
+    "telephone": "416-325-4800",
+    "constituency": "Scarborough—Guildwood",
+    "party": "Ontario Liberal Party"
+  },
+  {
+    "name": "Logan Kanapathi",
+    "email": "logan.kanapathi@pc.ola.org",
+    "telephone": "416-325-4850",
+    "constituency": "Markham—Thornhill",
+    "party": "Progressive Conservative Party of Ontario"
+  },
+  {
+    "name": "Belinda Karahalios",
+    "email": "bkarahalios@ola.org",
+    "telephone": "416-325-0079",
+    "constituency": "Cambridge",
+    "party": "New Blue Party of Ontario"
+  },
+  {
+    "name": "Bhutila Karpoche",
+    "email": "BKarpoche-QP@ndp.on.ca",
+    "telephone": "416-325-3017",
+    "constituency": "Parkdale—High Park",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Terence Kernaghan",
+    "email": "TKernaghan-QP@ndp.on.ca",
+    "telephone": "416-326-7568",
+    "constituency": "London North Centre",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Daryl Kramp",
+    "email": "daryl.kramp@pc.ola.org",
+    "telephone": "416-326-7005",
+    "constituency": "Hastings—Lennox and Addington",
+    "party": "Progressive Conservative Party of Ontario"
+  },
+  {
+    "name": "Laura Mae Lindo",
+    "email": "LLindo-QP@ndp.on.ca",
+    "telephone": "416-326-7221",
+    "constituency": "Kitchener Centre",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Sol Mamakwa",
+    "email": "SMamakwa-QP@ndp.on.ca",
+    "telephone": "416-326-7692",
+    "constituency": "Kiiwetinoong",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Michael Mantha",
+    "email": "mmantha-qp@ndp.on.ca",
+    "telephone": "416-325-1938",
+    "constituency": "Algoma—Manitoulin",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Gila Martow",
+    "email": "gila.martow@pc.ola.org",
+    "telephone": "416-325-0100",
+    "constituency": "Thornhill",
+    "party": "Progressive Conservative Party of Ontario"
+  },
+  {
+    "name": "Paul Miller",
+    "email": "pmiller-qp@ndp.on.ca",
+    "telephone": "416-325-0707",
+    "constituency": "Hamilton East—Stoney Creek",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Christina Mitas",
+    "email": "christina.mitas@pc.ola.org",
+    "telephone": "416-326-7374",
+    "constituency": "Scarborough Centre",
+    "party": "Progressive Conservative Party of Ontario"
+  },
+  {
+    "name": "Judith Monteith-Farrell",
+    "email": "JMonteith-Farrell-QP@ndp.on.ca",
+    "telephone": "416-325-9820",
+    "constituency": "Thunder Bay—Atikokan",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Suze Morrison",
+    "email": "SMorrison-QP@ndp.on.ca",
+    "telephone": "416-326-7171",
+    "constituency": "Toronto Centre",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Taras Natyshak",
+    "email": "tnatyshak-qp@ndp.on.ca",
+    "telephone": "416-325-0714",
+    "constituency": "Essex",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Rick Nicholls",
+    "email": "rick.nicholls@pc.ola.org",
+    "telephone": "416-325-9099",
+    "constituency": "Chatham-Kent—Leamington",
+    "party": "Progressive Conservative Party of Ontario"
+  },
+  {
+    "name": "Rod Phillips",
+    "email": "rod.phillips@pc.ola.org",
+    "telephone": "416-325-0145",
+    "constituency": "Ajax",
+    "party": "Progressive Conservative Party of Ontario"
+  },
+  {
+    "name": "Tom Rakocevic",
+    "email": "TRakocevic-QP@ndp.on.ca",
+    "telephone": "416-326-7585",
+    "constituency": "Humber River—Black Creek",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Kaleed Rasheed",
+    "email": "kaleed.rasheed@pc.ola.org",
+    "telephone": "416-326-7028",
+    "constituency": "Mississauga East—Cooksville",
+    "party": "Progressive Conservative Party of Ontario"
+  },
+  {
+    "name": "Amarjot Sandhu",
+    "email": "amarjot.sandhu@pc.ola.org",
+    "telephone": "416-326-6903",
+    "constituency": "Brampton West",
+    "party": "Progressive Conservative Party of Ontario"
+  },
+  {
+    "name": "Peggy Sattler",
+    "email": "Psattler-qp@ndp.on.ca",
+    "telephone": "416-325-6908",
+    "constituency": "London West",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Mike Schreiner",
+    "email": "Mschreiner@ola.org",
+    "telephone": "416-325-4664",
+    "constituency": "Guelph",
+    "party": "Green Party of Ontario"
+  },
+  {
+    "name": "Sandy Shaw",
+    "email": "SShaw-CO@ndp.on.ca",
+    "telephone": "416-326-6890",
+    "constituency": "Hamilton West—Ancaster—Dundas",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Amanda Simard",
+    "email": "asimard.mpp@liberal.ola.org",
+    "telephone": "416-325-6206",
+    "constituency": "Glengarry—Prescott—Russell",
+    "party": "Ontario Liberal Party"
+  },
+  {
+    "name": "Gurratan Singh",
+    "email": "GSingh-QP@ndp.on.ca",
+    "telephone": "416-326-7178",
+    "constituency": "Brampton East",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Sara Singh",
+    "email": "SSingh-QP@ndp.on.ca",
+    "telephone": "416-326-7610",
+    "constituency": "Brampton Centre",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Jennifer (Jennie) Stevens",
+    "email": "JStevens-CO@ndp.on.ca",
+    "telephone": "416-326-7127",
+    "constituency": "St. Catharines",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Marit Stiles",
+    "email": "MStiles-QP@ndp.on.ca",
+    "telephone": "416-326-7202",
+    "constituency": "Davenport",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Peter Tabuns",
+    "email": "tabunsp-qp@ndp.on.ca",
+    "telephone": "416-325-3250",
+    "constituency": "Toronto—Danforth",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Monique Taylor",
+    "email": "mtaylor-qp@ndp.on.ca",
+    "telephone": "416-325-1796",
+    "constituency": "Hamilton Mountain",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "John Vanthof",
+    "email": "jvanthof-qp@ndp.on.ca",
+    "telephone": "416-325-2000",
+    "constituency": "Timiskaming—Cochrane",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Jamie West",
+    "email": "JWest-QP@ndp.on.ca",
+    "telephone": "416-326-7144",
+    "constituency": "Sudbury",
+    "party": "New Democratic Party of Ontario"
+  },
+  {
+    "name": "Jim Wilson",
+    "email": "jwilson@ola.org",
+    "telephone": "416-325-2069",
+    "constituency": "Simcoe—Grey",
+    "party": "Independent"
+  },
+  {
+    "name": "Kathleen O. Wynne",
+    "email": "kwynne.mpp.co@liberal.ola.org",
+    "telephone": "416-325-4705",
+    "constituency": "Don Valley West",
+    "party": "Ontario Liberal Party"
+  },
+  {
+    "name": "Kevin Yarde",
+    "email": "KYarde-QP@ndp.on.ca",
+    "telephone": "416-326-6727",
+    "constituency": "Brampton North",
+    "party": "New Democratic Party of Ontario"
+  }
+]
